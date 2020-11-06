@@ -1,0 +1,7 @@
+{
+    "require": {
+        "shawngiroux/php_tui": "v0.1-alpha",
+        "symfony/console": "^5.1",
+        "guzzlehttp/guzzle": "^7.0"
+    }
+}
